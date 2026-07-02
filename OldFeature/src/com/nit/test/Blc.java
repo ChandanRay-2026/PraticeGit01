@@ -14,6 +14,6 @@ public class Blc
    
 	public int showLength(String s)
 	{
-		return s.length();
+		return s.length(); //gives the number of character in string
 	}
 }
