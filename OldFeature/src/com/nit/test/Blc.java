@@ -11,5 +11,9 @@ public class Blc
 	{
 		System.out.println("I called by"+id);
 	}
-
+   
+	public int showLength(String s)
+	{
+		return s.length();
+	}
 }
